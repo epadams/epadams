@@ -1,4 +1,4 @@
-### Hi, my name's Ethan 👋
+### Hi, I'm Ethan 👋
 - 🔭 I’m currently working on my Bachelor's Degree in Computer Science
 - 🌱 I’m currently learning C#, ASP.NET, and React
 - 💬 Ask me about anything!
