@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my Bachelor's Degree in Computer Science
 - 🌱 I’m currently learning C#, ASP.NET, and React
 - 💬 Ask me about anything!
-- 📫 How to reach me: epaadams2002@gmail.com
+<!-- - 📫 How to reach me: epaadams2002@gmail.com -->
 
 <!--
 **epadams/epadams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
